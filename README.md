@@ -15,6 +15,8 @@ Hello people!</br>I'm Tojal 🤯🤝
 - 👀 I’m looking to improve my programming skills
 - 🥇 Always looking for new content to study
 
+> [!TIP]
+> A fun fact about me is that I love economics and I plan to get a degree in it someday.
   
 
 ## Most used languages and Tools! ⚓
