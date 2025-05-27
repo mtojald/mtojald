@@ -11,7 +11,7 @@ Hello people!</br>I'm Tojal 🤯🤝
 - 📖 I’m currently learning `SQL`
 - 👀 I’m looking to improve my programming skills
 
-  ## My Strengths
+  ## My Strengths ⚓
   [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
