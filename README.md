@@ -3,7 +3,8 @@ Hello people!</br>I'm Tojal 🤯🤝
 </h1>
 
 <div align='center'>
-<h1 More About Me /h1>
+<h1>More About Me</h1>
+  
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtojald/)
 </div>
 
