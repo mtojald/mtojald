@@ -9,7 +9,7 @@ Hello people!</br>I'm Tojal 🤯🤝
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtojald/)
 </div>
 
-## My tasks 🔆
+## About Me 🔆
 - ⭐ I’m a Computer Science student at  [Cesar School](https://github.com/Abduzidos)
 - 📖 I’m currently learning `SQL` and `C`
 - 👀 I’m looking to improve my programming skills
