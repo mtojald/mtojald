@@ -11,8 +11,10 @@ Hello people!</br>I'm Tojal 🤯🤝
 
 ## My tasks 🔆
 - ⭐ I’m a Computer Science student at  [Cesar School](https://github.com/Abduzidos)
-- 📖 I’m currently learning `SQL`
+- 📖 I’m currently learning `SQL` and `C`
 - 👀 I’m looking to improve my programming skills
+- 🥇 Always searching new content to study
+  
 
 ## Most used languages and Tools! ⚓
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
