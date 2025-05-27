@@ -13,7 +13,8 @@ Hello people!</br>I'm Tojal 🤯🤝
 - ⭐ I’m a Computer Science student at  [Cesar School](https://github.com/Abduzidos)
 - 📖 I’m currently learning `SQL` and `C`
 - 👀 I’m looking to improve my programming skills
-- 🥇 Always searching new content to study
+- 🥇 Always looking for new content to study
+
   
 
 ## Most used languages and Tools! ⚓
